@@ -1,0 +1,4 @@
+event_time,event_type,product_id,category_id,category_code,brand,price,user_id,user_session
+2019-11-02 02:48:26 UTC,view,0,0,,,0.0,flush_0,flush
+2019-11-02 02:48:26 UTC,view,0,0,,,0.0,flush_1,flush
+2019-11-02 02:48:26 UTC,view,0,0,,,0.0,flush_2,flush
