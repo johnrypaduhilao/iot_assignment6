@@ -4,6 +4,10 @@
 Johnry Christian Paduhilao
 #101002576
 
+## NOTE FOR SOME FILES:
+- **SCREENSHOT.png** - screenshot of  alert output firing in the Spark console 
+- **EXPLAINATION.md** - why I chose this window type, and where my pipeline requires state
+
 ## Prerequisite
 
 - Java 17 or newer (PySpark 4.x requires it; Java 11 will not work).
